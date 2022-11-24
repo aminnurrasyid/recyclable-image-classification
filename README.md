@@ -1,6 +1,6 @@
 # ♻️ Computer Vision in Recycling Management via Convolutional Neural Network(CNN)
-this is my group project for Machine Learning Course at University. It's our first hands-on experience on neural network.
-thanks to maryam, fadh, sarah(will add as contributors soon)
+this is my group project for Machine Learning Course at University. It's our first hands-on experience on neural network.<br/>
+*thanks to maryam, fadh, sarah. (will add as contributors soon)*
 
 
 objective : classify organic and non-organic material in form of images<br/>
@@ -8,7 +8,7 @@ motivation : might replace usage of expensive sensors<br/>
 dataset : https://www.kaggle.com/datasets/techsash/waste-classification-data
 
 ## Disclaimer 
-this notebook is made specifically to run in google colab environment.
+this notebook is made specifically to run in Google Colab environment.
 
 ## Method 
 
