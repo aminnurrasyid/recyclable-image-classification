@@ -1,5 +1,5 @@
 # ♻️ Computer Vision in Recycling Management via Convolutional Neural Network(CNN)
-this is my group project for Machine Learning Course at University. It's our first hands-on experience on neural network.<br/>
+this is my group project for Machine Learning course at university. It's our first hands-on experience on neural network.<br/>
 *thanks to maryam, fadh, sarah. (will add as contributors soon)*
 
 
