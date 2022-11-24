@@ -12,7 +12,7 @@ this notebook is made specifically to run in Google Colab environment.
 
 ## Method 
 
-Utilizes Vanilla CNN
+utilizes Vanilla CNN
 
 ![image](https://user-images.githubusercontent.com/57680454/203807119-e2516ff9-36b9-493f-93df-e95886da8382.png)
 
